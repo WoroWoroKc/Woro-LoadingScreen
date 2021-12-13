@@ -2,6 +2,8 @@
 
 Fivem LoadingScreen by WoroWoro#3229
 
+Preview - https://www.youtube.com/watch?v=WN8AIMLmbsc
+
 # Authors
 
 * WoroWoro: https://woro.website | https://www.youtube.com/channel/UCJAeta_d-ZUDvlSo2PkRFRQ/
