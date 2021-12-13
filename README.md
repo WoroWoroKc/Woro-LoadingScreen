@@ -19,5 +19,5 @@ Fivem LoadingScreen by WoroWoro#3229
   ensure woro-loadingscreen
 ```
 
-![img1](https://akirarp.pl/img/cfel1.png)
-![img2](https://akirarp.pl/img/cfel2.png)
+![img1](https://akirarp.pl/img/Loading-1.png)
+![img2](https://akirarp.pl/img/Loading-2.png)
